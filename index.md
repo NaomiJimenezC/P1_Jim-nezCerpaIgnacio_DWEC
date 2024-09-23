@@ -16,9 +16,28 @@ También, para el interés de los coleccionistas, podrán ver el valor ecónomic
 
 # Ánalisis de mercado 
     Análisis de mercado: Investigar y analizar aplicaciones similares en el mercado. Identificar características comunes y oportunidades de diferenciación para la nueva aplicación, destacando qué valor añadido ofrecerá.
-Collectr 
+Collectr es una aplicación que comparte la idea de ser una aplicación donde puedes organizar tus colecciones de cartas TCG.
+La diferencia principal de su idea con la mia, es que su aplicación está bastante más orientada a la compraventa de cartas, teniendo un servicio de ventas de cartas dentro de la propia aplicación.
+Tenemos en común mayormente el poder organizar colecciones de cartas según el TGC que tengas. Pero una diferencia sustancial es que yo tengo en mente poder organizar tus propias barajas competitivas y no incitar a la especulación del material coleccionable.
+
+Deckstats es una aplicación que también comparte la misma idea que mi aplicación, y de una manera maś cercana que Collectr. Mi principal ventaja respecto esta aplicación es que mi app no se limita únicamente a las Magic, yo también abarco otros TGC famosos como Yu-Gi-oH o Pokémon TGC.
+Reconozco que la idea de tener un foro o red social para poder comunicarte con otros jugadores es algo que no había pensado y que es una característica muy buena para mejorar la comunidad.
 # Funcionalidades claves
     Funcionalidades clave: Identificar y listar las funcionalidades principales que ofrecerá la aplicación (ej: sistema de autenticación, gestión de usuarios, etc.).
+* Sistema de autenticación
+  * Es necesario tener un sistema en de autenticación por el mero hecho de que para la asociación de una colección de cartas, barajas,etc tendré que saber de quien es. De otra manera no podría saber de quien es y no tendría mucho sentido tener una app como esta.
+* Gestión de usuarios
+    * Al tener la capacidad de tener cuentas de usuario, tener una manera de gestionar las cuentas de los usuarios es algo también necesario por el bienestar de la organización de la aplicación web     
+* Buscador de cartas
+    * El poder buscar las cartas es una función esencial porque el querer un acceso a la carta que quieras en concreto es algo super básico y esencial. 
+* Creador de barajas
+    * Crear una baraja en la que tengas las cartas con las que juegas es algo importante en los TGC, pues ayuda a saber con que cartas puedes contar o saber que cartas te faltan en tu baraja.
+* Organizador de barajas
+    * Tener la capacidad de organizar las barajas que has creado es importante, pues mantener un control sobre ellas es necesario. Si quierer borrarla, nombrarla, modificarla,etc.  
+* Organizador de colección
+    * Organizar tu colección de cartas, que no es lo mismo que una baraja, es importante para saber que tipo de cartas tienes por ejemplo.  
+
+
 # Modelos de ejecución
     Modelos de ejecución (c.e. 1a): Investigar y comparar los modelos de ejecución en cliente y servidor, explicando sus diferencias y ejemplos de uso.
 # Lenguajes de programación web
