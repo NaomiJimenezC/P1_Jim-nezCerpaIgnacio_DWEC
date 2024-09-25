@@ -40,8 +40,60 @@ Reconozco que la idea de tener un foro o red social para poder comunicarte con o
 
 # Modelos de ejecución
     Modelos de ejecución (c.e. 1a): Investigar y comparar los modelos de ejecución en cliente y servidor, explicando sus diferencias y ejemplos de uso.
+| Cliente | Servidor |
+|---------|----------|
+| bla bla | bla bla  |
+| bla     | bla      |
+| bla     | bla      |
 # Lenguajes de programación web
     Lenguajes de programación web (c.e. 1c, 1d): Analizar los lenguajes de programación más utilizados para el desarrollo web en cliente, como JavaScript y TypeScript, explicando sus ventajas y desventajas.
+### JavaScript
+Es un lenguaje de programación scripting para la parte de cliente en aplicaciones webs. Se ejecuta en los navegadores y es el más conocido de todos. Aunque sea para clientes, se ha conseguido que también sirva para desarrollar aplicaciones backend.
+
+Nació para darle dinanismo a las páginas y es el lenguaje principal al momento de hacer aplicaciones para clientes.
+
+De JavaScript han nacido otros lenguajes y varias librerías y framework debido a su gran popularidad y comodidez al ser usado
+
+**Ventajas**
+ * Es uno de los lenguajes de programación más famosos, ocupando el puesto 6 en el index de TIOBE, lo que implica que tiene un gran apoyo por parte de las compañías y tiene una gran comunidad, por lo que hay muchas soluciones a muchos problemas y muchos recursos para aprender a dominarlo.
+ * Ayuda a disminuir la carga del servidor, pues al ser un lenguaje bastante capaz, puede hacer que el navegador gestione algunas tareas y el servidor de las esenciales. 
+ * Es bastante versátil pues cuenta con muy buena compatibilidad con otros lenguajes de programación
+ * Es genial para proyectos pequeños por su simplicidad
+ * Tiene buena comptabilidad con navegadores viejos pues todo es retrocompatible en javascript.
+
+**Desventajas**
+ * Tiene varias vulnerabilidades explotables, lo que hace que no sea una opción del todo segura al momento de desarrollar y tengas que hacer un trabajo extra para cubrir esas vulnerabilidades
+ * Tiene un tipado dinámico, que no es algo tan malo y depende de a quien le preguntes pues te dirá que es una ventaja, en lo personal prefiero el tipado estático para tener más control sobre el tipo de datos con el que trabajo.
+ * Si te pasas poniendo funciones es posible que realintices la página por tener que cargar varias cosas.
+ * Es algo dificil de depurar pues tienes que recurrir al depurador del navegador.
+
+### TypeScript
+Este lenguaje nace de javascript con la principal diferencia de incluir algunas mejoras, siendo la principal la inclusión de un tipado estático.
+Por todo lo que comentaré en las ventajas,digo que TypeScript es un lenguaje adecuado para proyectos medianos y grandes en diferencia con javascript, que es mejor para proyectos pequeños.
+
+**Ventajas**
+ * Es más fácil de hacer un código seguro y que se pueda mantener gracias al tipado
+ * Es más legible que javascript gracias al tipado estático
+ * Al igual que javascript, tiene un buen soporte por parte de la comunidad, pues también es un lenguaje famoso.
+ * Es compatible con todos los framework y librerías de javascript pues tiene de núcleo el propio javascript, esto permite poder trasladar más cómodamente tus proyectos de javascript.
+**Desventajas**
+ * Es más aparatoso en proyectos pequeños debido a que tienes que estar, precisamente, tipando todas las variables.
+ * Tiene problemas de compatibilidad en navegadores viejos.
+### Dart
+Es un lenguaje orientado a objetos que creó Google para el desarrollo de aplicaciones web y cuyo código se puede pasar a JavaScript. 
+
+**Ventajas**
+* 
+
+**Desventajas**
+
+### Elm
+
+**Ventajas**
+
+
+**Desventajas**
+
 # Tecnologías a utilizar
     Tecnologías a utilizar: Seleccionar las tecnologías (lenguajes de programación, frameworks, herramientas de desarrollo) que se utilizarán para el desarrollo de la aplicación. Justificar la elección en base a la investigación realizada. Asegurarse de incluir:
 
